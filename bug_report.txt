@@ -1,1 +1,6 @@
-
+ bug summary: no button authorization
+ severity": major
+ priotity": "minor
+ steps for retroduce: open page with authorixation
+ actual result "no button for authorization, just login and password for users",
+  "expected result": "open page with autorization, choose login or new user"
